@@ -2,6 +2,9 @@
 {
     internal class C169
     {
+        //2025/10/03
+        //ポイント還元セール
+
         static void Test(string[] args)
         {
             var N = int.Parse(Console.ReadLine());
