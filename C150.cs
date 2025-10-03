@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class ProgTestram
     {
-        static void Main(string[] args)
+        static void Test(string[] args)
         {
             var firstLine = Console.ReadLine().Split(' ');
             int N = int.Parse(firstLine[0]);
@@ -36,7 +36,7 @@ namespace PaizaPractice
                 //double dist = Math.Abs(X + Y);
                 //上記だと座標がマイナスの場合に計算できていない
 
-                int dist = Math.Abs(x - X) + Math.Abs(y - Y); 
+                int dist = Math.Abs(x - X) + Math.Abs(y - Y);
                 if (dist <= D)
                 {
                     count++;
