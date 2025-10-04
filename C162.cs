@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class te
     {
-        static void Main(string[] args)
+        static void ain(string[] args)
         {
             var firstLine = Console.ReadLine().Split(' ');
 
