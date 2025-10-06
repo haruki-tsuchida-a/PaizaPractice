@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class ec
     {
-        static void Main(string[] args)
+        static void fe(string[] args)
         {
             var firstLine = Console.ReadLine().Split(' ');
             int H = int.Parse(firstLine[0]);
