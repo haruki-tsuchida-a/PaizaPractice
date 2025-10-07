@@ -5,7 +5,7 @@ namespace PaizaPractice
 {
     internal class eic
     {
-        static void Main(string[] args)
+        static void d(string[] args)
         {
             // 当選番号の読み込み
             var chooseDigit = Console.ReadLine().Split(' ');
