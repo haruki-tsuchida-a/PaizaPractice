@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class c013
     {
-        static void Main(string[] args)
+        static void ec(string[] args)
         {
             string n = Console.ReadLine();
             int m = int.Parse(Console.ReadLine());
