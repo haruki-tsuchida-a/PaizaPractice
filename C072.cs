@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class fdeef
     {
-        static void Main(string[] args)
+        static void dfe(string[] args)
         {
             var firstLine = Console.ReadLine().Split(' ');
             var attack = int.Parse(firstLine[0]);
