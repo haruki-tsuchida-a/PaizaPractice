@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace PaizaPractice
 {
-    internal class Program
+    internal class fer
     {
-        static void Main(string[] args)
+        static void ecfd(string[] args)
         {
             var N = int.Parse(Console.ReadLine());
             var numbers = Console.ReadLine().Split(' ').Select(int.Parse).OrderBy(n => n).ToList();
